@@ -10,9 +10,9 @@
 
   - 🔭 💻 I’m currently persuing B.Tech - IT 3rd year in *Government College of Technology,Coimbatore*.
   - 🌱 I’m currently learning *Backend Development*.
-  - 💬 Ask me about *Web Development,C,Web Development, Python, Git*.
+  - 💬 Ask me about *Web Development, C, Python, Git*.
   - 👯 I’m looking to do projects on *Full Stack Development*.
-  - 📫 How to reach me: [JAYASREE T](https://jayasreeme.netlify.app/)(Personal Website)
+  - 📫 Personal Website: [JAYASREE T](https://jayasreeme.netlify.app/)
   - :girl: Pronouns: She/Her
   - ⚡ Fact:**"Today’s accomplishments were Yesterday’s impossibilities.So keep focusing today to get a better Tommorrow!"**:muscle:
 
