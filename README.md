@@ -12,7 +12,7 @@
   - 🌱 I’m currently learning *Backend Development*.
   - 💬 Ask me about *Web Development,C,Web Development, Python, Git*.
   - 👯 I’m looking to do projects on *Full Stack Development*.
-  - 📫 How to reach me: [JAYASREE T](https://www.linkedin.com/in/jayasree-t-b83a2119a/)(Linkedin)
+  - 📫 How to reach me: [JAYASREE T](https://jayasreeme.netlify.app/)(Personal Website)
   - :girl: Pronouns: She/Her
   - ⚡ Fact:**"Today’s accomplishments were Yesterday’s impossibilities.So keep focusing today to get a better Tommorrow!"**:muscle:
 
@@ -43,13 +43,6 @@
 </a>
 <br/>
 <br>
-
-### 📈 My GitHub Stats: 
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=JAYASREE1408&show_icons=true&theme=gotham" alt="JAYASREE T" />
-
-<br>
-
 
 ### Languages and Tools Known: 
 
