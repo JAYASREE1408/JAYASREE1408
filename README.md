@@ -14,7 +14,7 @@
   - 👯 I’m looking to do projects on *Full Stack Development*.
   - 📫 Personal Website: [JAYASREE T](https://jayasreeme.netlify.app/)
   - :girl: Pronouns: She/Her
-  - ⚡ Fact:**"Today’s accomplishments were Yesterday’s impossibilities.So keep focusing today to get a better Tommorrow!"**:muscle:
+  - ⚡ Fact:**"Today’s accomplishments were Yesterday’s Impossibilities.So keep focusing today to get a better Tommorrow!"**:muscle: 
 
   
  <img align="right" alt="GIF" src="https://cdn.clipart.email/71d1b787e70e7edc17f0d3e44c025ef5_wawac50-hd-free-women-at-work-animated-clipart-pack-5870_407-400.gif" width="300" height="300" />
