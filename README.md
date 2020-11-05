@@ -5,7 +5,7 @@
 <img align="center" style="position: absolute;left: 50%;margin-right: -50%;transform: translate(-50%, -50%)" alt="GIF" src="https://i.pinimg.com/originals/fd/a7/c0/fda7c018db9a09ff0ed234957e9b25b9.gif" width="500" height="400" />
 </p>
 
-  
+   
 ### Some Stuffs About me 😄: 
 
   - 🔭 💻 I’m currently persuing B.Tech - IT 3rd year in *Government College of Technology,Coimbatore*.
