@@ -46,16 +46,16 @@
 
 ### Languages and Tools Known: 
 
-<code><img height="30" src="https://www.drupal.org/files/project-images/bootstrap-stack.png"></code>
-<code><img height="30" src="https://hackr.io/tutorials/learn-html-5/logo/logo-html-5?ver=1587977020"></code>
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png"></code>
-<code><img height="30" src="https://cms-assets.tutsplus.com/uploads/users/1251/posts/31701/preview_image/php-tutsplus.png"></code>
-<code><img height="30" src="https://www.freepngimg.com/thumb/java/5-2-java-png-clipart-thumb.png"></code>
-<code><img height="30" src="https://www.pinclipart.com/picdir/middle/396-3965857_c-c-programming-language-logo-clipart.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="30" width="30" src="https://www.drupal.org/files/project-images/bootstrap-stack.png"></code>
+<code><img height="30" width="30" src="https://hackr.io/tutorials/learn-html-5/logo/logo-html-5?ver=1587977020"></code>
+<code><img height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png"></code>
+<code><img height="30" width="30" src="https://cms-assets.tutsplus.com/uploads/users/1251/posts/31701/preview_image/php-tutsplus.png"></code>
+<code><img height="30" width="30" src="https://www.freepngimg.com/thumb/java/5-2-java-png-clipart-thumb.png"></code>
+<code><img height="30" width="30" src="https://www.pinclipart.com/picdir/middle/396-3965857_c-c-programming-language-logo-clipart.png"></code>
+<code><img height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 
 
 
