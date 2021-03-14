@@ -16,8 +16,6 @@
   - :girl: Pronouns: She/Her
   - ⚡ Fact:**"Today’s accomplishments were Yesterday’s Impossibilities.So keep focusing today to get a better Tommorrow!"**:muscle: 
 
-  
- <img align="right" alt="GIF" src="https://cdn.clipart.email/71d1b787e70e7edc17f0d3e44c025ef5_wawac50-hd-free-women-at-work-animated-clipart-pack-5870_407-400.gif" width="300" height="300" />
  
   - A **meticulous,dedicated and a proactive person** who loves to explore new technologies and passionate about learning. I am always energetic and hungry in learning new skills with eagerness to succeed and enthusiasm to compete.
 
