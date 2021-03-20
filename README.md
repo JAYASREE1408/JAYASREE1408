@@ -15,7 +15,7 @@
   - 📫 Personal Website: [JAYASREE T](https://jayasreeme.netlify.app/)
   - :girl: Pronouns: She/Her
   - ⚡ Fact:**"Today’s accomplishments were Yesterday’s Impossibilities.So keep focusing today to get a better Tommorrow!"**:muscle: 
-
+ 
  
   - A **meticulous,dedicated and a proactive person** who loves to explore new technologies and passionate about learning. I am always energetic and hungry in learning new skills with eagerness to succeed and enthusiasm to compete.
 
