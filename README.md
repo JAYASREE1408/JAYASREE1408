@@ -8,7 +8,7 @@
    
 ### Some Stuffs About me 😄: 
 
-  - 🔭 💻 I’m currently persuing B.Tech - IT 3rd year in *Government College of Technology,Coimbatore*.
+  - 🔭 💻 I’m currently persuing B.Tech - IT 4rd year in *Government College of Technology,Coimbatore*.
   - 🌱 I’m currently learning *Backend Development*.
   - 💬 Ask me about *Web Development, C, Python, Git*.
   - 👯 I’m looking to do projects on *Full Stack Development*.
