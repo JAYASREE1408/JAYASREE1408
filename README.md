@@ -2,7 +2,7 @@
 
 *🌟 Impeccable Developer 🌟 Scintillating Programmer 🌟 Articulate Communicator 🌟 Ingenious Writer 🌟*
 <p align="center">
-<img align="center" style="position: absolute;left: 50%;margin-right: -50%;transform: translate(-50%, -50%)" alt="GIF" src="https://i.pinimg.com/originals/fd/a7/c0/fda7c018db9a09ff0ed234957e9b25b9.gif" width="500" height="400" />
+<img align="center" style="position: absolute;left: 50%;margin-right: -50%;transform: translate(-50%, -50%)" alt="GIF" src="https://i.pinimg.com/originals/fd/a7/c0/fda7c018db9a09ff0ed234957e9b25b9.gif" width="300" height="300" />
 </p>
 
    
