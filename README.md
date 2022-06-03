@@ -1,8 +1,8 @@
-# <img src="https://i.pinimg.com/originals/0d/a5/cb/0da5cbca5d728a789100439958f50235.gif" height="100px" width="100px"> Techies, I am JAYASREE T <img src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" width="45px">
+# <img src="https://i.pinimg.com/originals/0d/a5/cb/0da5cbca5d728a789100439958f50235.gif" height="100px" width="100px"> Techies, I am JAYASREE T <img src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" width="25px">
 
 *🌟 Impeccable Developer 🌟 Scintillating Programmer 🌟 Articulate Communicator 🌟 Ingenious Writer 🌟*
 <p align="center">
-<img align="center" style="position: absolute;left: 50%;margin-right: -50%;transform: translate(-50%, -50%)" alt="GIF" src="https://i.pinimg.com/originals/fd/a7/c0/fda7c018db9a09ff0ed234957e9b25b9.gif" width="300" height="300" />
+<img align="center" style="position: absolute;left: 50%;margin-right: -50%;transform: translate(-50%, -50%)" alt="GIF" src="https://i.pinimg.com/originals/fd/a7/c0/fda7c018db9a09ff0ed234957e9b25b9.gif" width="500" height="500" />
 </p>
 
    
