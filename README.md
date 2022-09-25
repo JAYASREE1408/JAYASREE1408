@@ -12,7 +12,7 @@
   - 🌱 I’m currently learning *Backend Development*.
   - 💬 Ask me about *Web Development, C, Python, Git*.
   - 👯 I’m looking to do projects on *Full Stack Development*.
-  - 📫 Personal Website: [JAYASREE T](https://jayasree.me)
+  - 📫 Personal Website: [JAYASREE T](https://jayasree1408.github.io/)
   - :girl: Pronouns: She/Her
   - ⚡ Fact:**"Today’s accomplishments were Yesterday’s Impossibilities.So keep focusing today to get a better Tommorrow!"**:muscle: 
  
